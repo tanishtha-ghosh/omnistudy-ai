@@ -1,4 +1,4 @@
-# OmniStudy AI 📚
+# OmniStudy AI 
 
 An AI-powered Smart Learning Companion that helps students upload notes, chat with PDFs using RAG, generate summaries, quizzes, flashcards, and personalized study plans.
 
