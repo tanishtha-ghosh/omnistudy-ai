@@ -1,1 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
 
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables (API keys)
+.env
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
